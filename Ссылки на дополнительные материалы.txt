@@ -1,0 +1,5 @@
+Выборка, на которой обучались нейронные сети, состоящая из 17136 изображений клеток, находится по ссылке:
+https://drive.google.com/drive/folders/1Z-CgNqdU049KrSiOU7TLEJCSGzXF7GrG?usp=sharing
+
+Сами нейронные сети, обученные в ходе данной работы, находятся по ссылке:
+https://drive.google.com/drive/folders/1CWd8xtgyUHKqrCJIOQo2vcJrUvVgJenf?usp=sharing
